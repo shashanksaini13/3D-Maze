@@ -2,6 +2,8 @@
 
 A captivating 3D maze game developed using Java Swing! With stunning graphics and challenging gameplay, this game is sure to provide hours of entertainment.
 
+![](https://github.com/shashanksaini13/3D-Maze/blob/main/3dmazegif.gif "Gameplay")
+
 ## Features
 - Immersive 3D graphics and smooth animations
 - Intuitive controls using arrow keys for up, down, left, and right movement
