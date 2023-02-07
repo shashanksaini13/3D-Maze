@@ -13,7 +13,7 @@ A captivating 3D maze game developed using Java Swing!
 
 ## Technical Details
 - Developed using Java Swing, a Java-based GUI toolkit, to provide a fast and responsive gaming experience
-- Utilizes 3D graphics and animations to create an immersive and engaging environment
+- Utilizes 3D graphics and animations to create realistic animations
 - Multi-threading is used to provide smooth and responsive gameplay, even on lower-end machines
 - Game state and progress is saved and can be resumed at a later time
 - Modified Prim’s and Kruskal’s maze generation algorithms to work in three dimensions
