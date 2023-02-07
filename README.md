@@ -1,6 +1,6 @@
 # 3D Maze Game
 
-A captivating 3D maze game developed using Java Swing! With stunning graphics and challenging gameplay, this game is sure to provide hours of entertainment.
+A captivating 3D maze game developed using Java Swing!
 
 ![](https://github.com/shashanksaini13/3D-Maze/blob/main/3dmazegif.gif "Gameplay")
 
